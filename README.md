@@ -3,7 +3,7 @@
 This repo contains my submission analyzing 6.9M transactions to redesign demographic update triggers for better youth representation.
 
 ## Contents
-- **Report**: Full PDF in [Uidai Hackathon/Report/UIDAI_Hackathon_Submission_Report.pdf.pdf]
+- **Report**: Report: Full PDF available [here](Uidai%20Hackathon/Report/UIDAI_Hackathon_Submission_Report.pdf)
 - **EDA Notebooks**: 3 Google Colab files in /notebooks/ for data exploration (open in Colab for interactivity).
 - **Visualizations**: 15 charts/images in /visualizations/ showing key findings like youth visibility gradient and geographic exclusion.
 
